@@ -6,9 +6,15 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rspereiira&locale=pt-br&mode=daily&theme=github_dark&hide_border=true" width="500"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rspereiira/Rspereiira/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rspereiira/Rspereiira/pacman-output/bomberman-contribution-graph-dark.svg">
+
+  <img 
+    alt="contribution graph" 
+    src="https://raw.githubusercontent.com/Rspereiira/Rspereiira/pacman-output/bomberman-contribution-graph-dark.svg"
+    width="100%">
+</picture>
 
 ---
 
