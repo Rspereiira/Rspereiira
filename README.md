@@ -8,17 +8,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Rspereiira&locale=pt-br&mode=daily&theme=github_dark&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com?user=Rspereiira&locale=pt-br&mode=daily&theme=github_dark&hide_border=true" width="500"/>
 
 </div>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rspereiira/Rspereiira/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rspereiira/Rspereiira/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/Rspereiira/Rspereiira/pacman-output/bomberman-contribution-graph.svg" width="100%">
-</picture>
 
 <br>
 
@@ -180,7 +172,7 @@ Projeto extensionista voltado ao letramento digital para idosos, com foco em ace
 
 ## `> ./contact.sh`
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/rspereiira/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
