@@ -128,7 +128,7 @@
 <td align="center"><code>01</code></td>
 
 <td>
-<a href="https://github.com/Rspereiira](https://github.com/Rspereiira/projeto-integrador-inclusao-digital">
+<a href="https://github.com/Rspereiira/projeto-integrador-inclusao-digital">
 <b>Inclusão Digital — Casa de Repouso</b>
 </a>
 </td>
