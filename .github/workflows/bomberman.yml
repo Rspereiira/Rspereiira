@@ -23,8 +23,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Rspereiira
-          theme: github-dark
-          output_name: bomberman-contribution-graph
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: "bomberman"
+          player_style: "bomberman"
 
       - name: Push bomberman graph to pacman-output branch
         uses: peaceiris/actions-gh-pages@v4
